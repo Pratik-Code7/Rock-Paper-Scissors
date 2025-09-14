@@ -1,7 +1,9 @@
 # Rock-Paper-Scissors Game
 
 A simple web-based implementation of the classic Rock, Paper, Scissors game using HTML, CSS, and JavaScript.  
-Play against the computer with interactive gameplay and score tracking.
+Play against the computer with interactive gameplay and score tracking.  
+
+🌐 **Live Demo:** [https://pratik-code7.github.io/Rock-Paper-Scissors/](https://pratik-code7.github.io/Rock-Paper-Scissors/)
 
 ## Features
 
